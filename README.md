@@ -4,7 +4,7 @@
 
 ## Requisitos
 
-- Python 3.8 ou superior (testado com Python 3.12)
+- Python 3.8 ou superior (testado com Python 3.14)
 - Nenhuma biblioteca externa (apenas a biblioteca padrão do Python)
 
 ## Como executar
